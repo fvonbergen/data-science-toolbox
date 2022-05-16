@@ -1,0 +1,4 @@
+notebooks/*
+!notebooks/playground-python.ipynb
+!notebooks/playground-R.ipynb
+!notebooks/.Rprofile
